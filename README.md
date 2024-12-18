@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ghkim.dev@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Devops-15afbe6dc6b28000bc8fc6176da08069](https://www.notion.so/Devops-15afbe6dc6b28000bc8fc6176da08069)
+- 📄 Know about my experiences 
 
 <p align="left">
 </p>
